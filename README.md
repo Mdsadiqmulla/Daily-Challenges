@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...
-)]
+[![MasterHead](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e475r9duhqi8oaww7pd9sa1segayc22ks4moujyvutz&rid=giphy.gif&ct=g)
 
-(img align="right" alt="Coding" width="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC")
+
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 
 
 ### **<div align="center">Hi👋 I'm Sadiq Mulla</div>**  
