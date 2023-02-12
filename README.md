@@ -1,9 +1,6 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--Hkw1RtR---/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/3lkp9c2b1f2irda7gkya.gif)
 
 
-
-[![MasterHead](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e475r9duhqi8oaww7pd9sa1segayc22ks4moujyvutz&rid=giphy.gif&ct=g)
-
 ### **<div align="center">Hi👋 I'm Sadiq Mulla</div>**  
   
 
@@ -16,7 +13,10 @@
 - [Resume](file:///C:/Users/Mohammed%20Rafiq/Downloads/Mohammed's%20Resume%20(3).pdf)  
   
 
-- ⚡ Fun fact:  I think I am Funny  
+- ⚡ Fun fact:  I think I am Funny 
+
+
+[![MasterHead](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e475r9duhqi8oaww7pd9sa1segayc22ks4moujyvutz&rid=giphy.gif&ct=g)
   
 
 <br/>  
